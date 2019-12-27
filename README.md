@@ -61,7 +61,7 @@ Finally, unpack your takeout file in this directory:
 ```
 tar xf googleplus_parse/original/json-march-takeout-2019xyzabcZ-001.tgz 
 
-``
+```
 
 
 ## Running the Script
