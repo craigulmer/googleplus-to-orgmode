@@ -6,7 +6,9 @@ org-mode format.
 Note: This was meant to be a 'first pass' script for converting data and
       downloading files. It's likely that the web downloads will break
       at some point and that you'll still need to manipulate the content or
-      script to get anything useful out of it.
+      script to get anything useful out of it. Also- this was originally
+      written as throw away code, so its uncommented and uses static
+      filenames. I'm posting it in case someone else needs it.
 
 Summary:
 - parsejson.py: Initial generation of org file, downloads missing images
